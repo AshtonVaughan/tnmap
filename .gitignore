@@ -1,0 +1,22 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# trained model artefacts (retrain locally)
+tnmap/model.pkl
+
+# scraper cache (regenerates on run)
+tnmap/data_cache/
+
+# os
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
+*.swp
