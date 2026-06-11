@@ -13,7 +13,7 @@ Layout:
   +---------------------------------------------------+
 
 Keys:
-  ctrl+r  run           ctrl+c  stop
+  ctrl+r  run           ctrl+x  stop
   enter   (on a suggestion) accept it into the command
   tab     cycle focus
 """
